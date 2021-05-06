@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-RID27-04-DOSTAD000-recovered_host-dosta_abcdjm_dcl_instrument_recovered
 data_stream: CE07SHSM-RID27-04-DOSTAD000-recovered_host-dosta_abcdjm_dcl_instrument_recovered
 end_date: '2020-07-07T15:03:03.704Z'
-last_updated: '2021-05-05T03:49:15.202718Z'
+last_updated: '2021-05-06T18:33:25.405084'
 start_date: '2015-04-05T17:15:11.698Z'
-status: pending
+status: success
